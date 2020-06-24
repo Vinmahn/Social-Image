@@ -1,0 +1,203 @@
+{
+  "Text": [
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    }
+  ],
+  "Background": [
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    }
+  ],
+  "Objects": [
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    }
+  ],
+  "Stock": [
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    }
+  ],
+  "Upload": [
+    {
+      "name": "Text",
+      "description": "",
+      "type": "text",
+      "icon": {
+        "prefix": "fas",
+        "name": "font"
+      },
+      "option": {
+        "type": "textbox",
+        "text": "Text Here",
+        "width": 60,
+        "height": 30,
+        "fontSize": 32,
+        "name": "New text"
+      }
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "modal-button",
+      "icon": {
+        "prefix": "far",
+        "name": "image"
+      },
+      "modal": "image-upload"
+    },
+    {
+      "name": "Unsplash",
+      "description": "",
+      "type": "modal-button",
+      "icon": {
+        "prefix": "fas",
+        "name": "images"
+      },
+      "modal": "unsplash"
+    },
+    {
+      "name": "Image",
+      "description": "",
+      "type": "image",
+      "icon": {
+        "prefix": "fas",
+        "name": "image"
+      },
+      "option": {
+        "type": "image",
+        "name": "New image",
+        "src": "./images/sample/test_image.jpg"
+      }
+    }
+  ]
+}
