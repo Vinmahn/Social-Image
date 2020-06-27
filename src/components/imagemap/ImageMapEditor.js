@@ -729,6 +729,7 @@ class ImageMapEditor extends Component {
   };
 
   updateSlides = numberOfSlides => {
+    return;
     // Update only if number of slides if more than zero
     // Cancel update it is currently updating (applying)
     if (numberOfSlides === 0 || this.state.isApplying || !this.state.shouldApplyAgain) {

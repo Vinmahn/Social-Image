@@ -20,10 +20,5 @@ const render = Component => {
 };
 
 render(App);
-if (module.hot) {
-  module.hot.accept('./containers/App', () => {
-    render(App);
-  });
-}
 
 registerServiceWorker();

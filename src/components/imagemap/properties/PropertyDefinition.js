@@ -94,4 +94,60 @@ export default {
       component: ImageFilterProperty,
     },
   },
+  triangle: {
+    general: {
+      title: 'General',
+      component: GeneralProperty,
+    },
+    style: {
+      title: 'Style',
+      component: StyleProperty,
+    },
+    shadow: {
+      title: 'Shadow',
+      component: ShadowProperty,
+    },
+  },
+  rect: {
+    general: {
+      title: 'General',
+      component: GeneralProperty,
+    },
+    style: {
+      title: 'Style',
+      component: StyleProperty,
+    },
+    shadow: {
+      title: 'Shadow',
+      component: ShadowProperty,
+    },
+  },
+  circle: {
+    general: {
+      title: 'General',
+      component: GeneralProperty,
+    },
+    style: {
+      title: 'Style',
+      component: StyleProperty,
+    },
+    shadow: {
+      title: 'Shadow',
+      component: ShadowProperty,
+    },
+  },
+  polygon: {
+    general: {
+      title: 'General',
+      component: GeneralProperty,
+    },
+    style: {
+      title: 'Style',
+      component: StyleProperty,
+    },
+    shadow: {
+      title: 'Shadow',
+      component: ShadowProperty,
+    },
+  },
 };

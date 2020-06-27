@@ -316,6 +316,12 @@ video {
 .thumbnail {
   border-radius: 4px;
   cursor: pointer;
+  transition: 250ms;
+
+  &:hover {
+    opacity: 0.75;
+    transition: 250ms;
+  }
 }
 
 .thumbnail-horizontal {
@@ -323,6 +329,12 @@ video {
   margin-right: 12px;
   border-radius: 4px;
   cursor: pointer;
+  transition: 250ms;
+
+  &:hover {
+    opacity: 0.75;
+    transition: 250ms;
+  }
 }
 
 .section-header {
@@ -363,4 +375,19 @@ video {
   text-align: center;
   padding: 8px 10px;
   font-size: 1.3rem;
+}
+
+.shape-container {
+  padding: 10px;
+  text-align: center;
+
+  &.Triangle {
+    .icon {
+      transform: rotate(270deg);
+    }
+  }
+
+  .icon {
+    font-size: 60px !important;
+  }
 }
